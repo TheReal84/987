@@ -10,3 +10,7 @@ The Fibonacci sequence goes: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377
 To get the next Fibonacci number, you have to add the previous 2 numbers.
 
 987 is the 16th Fibonacci number. Can you get 987?
+
+If this is easy, try TheReal23's 2584 [here](https://thereal23.github.io/2584/)
+
+Or just try to get to the 1597 tile or higher in 987.
